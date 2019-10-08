@@ -8,7 +8,7 @@ publicaciones de productos basandose únicamente en los títulos.
 
 [Meli Challenge](https://ml-challenge.mercadolibre.com)
 
-!
+![Meli](imagenes/Meli.PNG)
 
 ## Evaluación
 
@@ -28,3 +28,9 @@ Cada fila de los datos de entrenamiento corresponde a una publicación de produc
 *	Category	Es la categoría a predecir. El conjunto de posibles categorías es el mismo para ambos idiomas. Es decir, un título de un teléfono celular pertenerá aa la categoría CELLPHONES, independientemente si el título es en español o portugués.
 
 La distribución de casos fiables en el conjunto de entrenamiento no está distribuida uniformemente. Puede haber categorías que contengan muchos ejemplos fiables, así como categorías que no contengan ningún ejemplo fiable en absoluto.
+
+# RESULTADO. 
+
+Balanced Accuracy 0.8853
+
+![Tabla_Pos](imagenes/Tabla_Pos.PNG)
