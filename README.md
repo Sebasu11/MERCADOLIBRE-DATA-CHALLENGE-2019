@@ -8,12 +8,14 @@ publicaciones de productos basandose únicamente en los títulos.
 
 [Meli Challenge](https://ml-challenge.mercadolibre.com)
 
+!
+
 ## Evaluación
 
 Métrica
 La competencia se evalúa con balanced accuracy como métrica, la cual está definida como:
 
-
+![Balanced_accuracy](imagenes/bacc.PNG)
 
 ## Datos de Entrenamiento
 Cada fila de los datos de entrenamiento corresponde a una publicación de producto en Mercadolibre e incluye la siguiente información
