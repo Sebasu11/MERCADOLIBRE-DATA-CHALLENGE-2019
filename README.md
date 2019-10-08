@@ -1,6 +1,6 @@
-#MERCADOLIBRE DATA CHALLENGE 2019
+# MERCADOLIBRE DATA CHALLENGE 2019
 
-##El desafío
+## El desafío
 
 Entrenar un modelo de aprendizaje automático para categorizar
 publicaciones de productos basandose únicamente en los títulos.
